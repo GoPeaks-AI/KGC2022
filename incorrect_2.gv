@@ -1,0 +1,48 @@
+digraph incorrect_2 {
+	node [color=orange shape=oval style=filled]
+	edge [color=orange]
+	e401 -> net_tfa
+	node [color=red shape=oval style=filled]
+	edge [color=red]
+	tw -> e401
+	tw -> net_tfa
+	node [color=lightblue shape=oval style=filled]
+	edge [color=lightblue]
+	age
+	age -> e401
+	educ
+	educ -> e401
+	fsize
+	fsize -> e401
+	marr
+	marr -> e401
+	twoearn
+	twoearn -> e401
+	hown
+	hown -> e401
+	inc
+	inc -> e401
+	db
+	db -> e401
+	pira
+	pira -> e401
+	edge [color=lightblue]
+	age
+	age -> net_tfa
+	educ
+	educ -> net_tfa
+	fsize
+	fsize -> net_tfa
+	marr
+	marr -> net_tfa
+	twoearn
+	twoearn -> net_tfa
+	hown
+	hown -> net_tfa
+	inc
+	inc -> net_tfa
+	db
+	db -> net_tfa
+	pira
+	pira -> net_tfa
+}
