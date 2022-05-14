@@ -1,8 +1,8 @@
 # Knowledge Graph Conference 2022
 
 **Dr. Victor Chen, CFA**
-Director of Data Analytics and Insights, Experimental Design and Causal Inference
-**Fidelity Investments**
+<br>Director of Data Analytics and Insights, Experimental Design and Causal Inference
+<br>**Fidelity Investments**
 
 More information about **Causal Knowledge Graph and Prescriptive Analytics**, please visit https://www.gopeaks.org/.
 
